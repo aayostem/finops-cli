@@ -826,4 +826,4 @@ Open Cost Explorer after each fix. Compare against your baseline screenshot from
 
 ---
 
-*Ayobami Adejumo is a senior platform engineer and FinOps specialist at Cloudfrugal. He has audited AWS infrastructure for 30+ Series A companies and contributes practical tooling to the FinOps Foundation Asset Library. Read more at [cloudfrugal.com](https://cloudfrugal.com).*
+*[Ayobami Adejumo](https:/https://github.com/aayostem) is a senior platform engineer and FinOps specialist at Cloudfrugal. He has audited AWS infrastructure for 10+ Series A companies and contributes practical tooling to the FinOps Foundation Asset Library*
